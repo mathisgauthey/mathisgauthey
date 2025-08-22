@@ -4,7 +4,7 @@
 > 
 > I specialize in **Backend** development and **DevOps**, but I've recently expanded my skills into **Frontend** to gain a deeper understanding of full-stack and cross-platform applications.
 > 
-> I'm a lifelong learner, always curious and eager to grow. And this is your chance to dive into my coding journey 👇🏻
+> I'm a lifelong learner, always curious and eager to grow. And this is your chance to dive into my coding journey ✨
 
 ---
 
